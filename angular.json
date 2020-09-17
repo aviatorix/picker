@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "datepicker"
+    }
+  },
+  "defaultProject": "datepicker",
+  "cli": {
+    "analytics": false
+  }
 }
